@@ -11541,6 +11541,11 @@ small, .small {
   object-fit: cover;
 }
 
+/*shadow for category pills*/
+.shadow-pills {
+  box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0,0.50);
+}
+
 
 @media (min-width: 992px) {
   header.masthead {
