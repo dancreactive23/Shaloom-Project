@@ -11546,6 +11546,11 @@ small, .small {
   box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0,0.50);
 }
 
+/* Inactive class to toggle courses depending on the categories*/
+
+.inactive{
+  display: none;
+}
 
 @media (min-width: 992px) {
   header.masthead {
